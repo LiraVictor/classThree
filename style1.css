@@ -1,0 +1,33 @@
+p{
+    font-size: 8pt;
+    margin: 0;
+    color: gray;
+}
+h3{
+    font-size: 12pt;
+    margin: 0;
+    color: rgb(43,42,42);
+}
+img{
+    width: 30pt;
+    margin: 5pt;
+}
+
+.externo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.interno {
+    display: flex;
+    flex-direction: row;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5pt;
+    padding: 10pt;
+}
